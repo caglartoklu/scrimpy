@@ -34,7 +34,9 @@ import sys  # pylint: disable=unused-import
 starting_dir = os.getcwd()
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
-# type your code here.
-
-print("scrimpy loaded and finished.")
-os.chdir(starting_dir)
+try:
+    pass
+    # type your code here.
+finally:
+    print("scrimpy loaded and finished.")
+    os.chdir(starting_dir)
