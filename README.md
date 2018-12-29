@@ -1,6 +1,6 @@
 # scrimpy.py
 
-A simple Python module to be used as a base for single file batch scripts.
+A simple Python module to be used as a base for quick and dirty, single file batch scripts.
 Instead of creating `.bat` files on Windows, scrimpy can be used.
 Never use this codebase for something larger than single file batch scripts.
 
