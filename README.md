@@ -1,4 +1,4 @@
-# scrimpy.py
+# scrimpy
 
 A simple Python module to be used as a base for quick and dirty, single file batch scripts.
 Instead of creating `.bat` files on Windows, scrimpy can be used.
@@ -27,7 +27,7 @@ For Windows systems, [Python for Windows](https://www.python.org/downloads/windo
 
 # License
 
-scrimpy.py is licensed with MIT.
+scrimpy is licensed with MIT.
 See the [LICENSE](LICENSE.txt) file.
 
 
