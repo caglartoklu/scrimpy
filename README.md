@@ -4,6 +4,11 @@ A simple Python module to be used as a base for single file batch scripts.
 Instead of creating `.bat` files on Windows, scrimpy can be used.
 Never use this codebase for something larger than single file batch scripts.
 
+According to [The Free Dictionary](https://www.thefreedictionary.com/),
+[scrimpy](https://www.thefreedictionary.com/scrimpy) means:
+
+> Adj. 1. scrimpy - deficient in amount or quality or extentscrimpy - deficient in amount or quality or extent; "meager resources"; "meager fare"
+
 
 # Installation
 
@@ -29,3 +34,4 @@ See the [LICENSE](LICENSE.txt) file.
 # Legal
 
 All trademarks and registered trademarks are the property of their respective owners.
+
